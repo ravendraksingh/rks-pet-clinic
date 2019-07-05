@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.rks</groupId>
     <artifactId>rks-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>rks-pet-clinic</name>
     <description>RKS Pet Clinic Project</description>
 
