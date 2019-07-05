@@ -1,4 +1,4 @@
-package model;
+package com.rks.rkspetclinic.model;
 
 import java.time.LocalDate;
 
