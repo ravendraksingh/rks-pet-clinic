@@ -1,4 +1,4 @@
-package services;
+package com.rks.rkspetclinic.services;
 
 import com.rks.rkspetclinic.model.Vet;
 

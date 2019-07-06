@@ -1,4 +1,4 @@
-package services;
+package com.rks.rkspetclinic.services;
 
 import java.util.Set;
 

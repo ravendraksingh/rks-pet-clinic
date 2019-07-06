@@ -1,4 +1,4 @@
-package services.map;
+package com.rks.rkspetclinic.services.map;
 
 import java.util.HashMap;
 import java.util.HashSet;

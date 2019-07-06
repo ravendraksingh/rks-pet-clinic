@@ -1,10 +1,12 @@
-package services.map;
+package com.rks.rkspetclinic.services.map;
 
 import com.rks.rkspetclinic.model.Owner;
-import services.OwnerService;
+import com.rks.rkspetclinic.services.OwnerService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService {
 
     @Override
